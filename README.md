@@ -1,2 +1,3 @@
 # Fake-News-Detection
 My project is a Fake News Detection System developed using Python and Flask. The main aim of this project is to identify whether a news article is real or fake using Machine Learning techniques. Users can enter news text, upload files, or provide URLs for analysis. 
+The system preprocesses the text and predicts the authenticity of the news using a trained model. It also provides a user-friendly dashboard with graphs and statistics for better understanding. The project helps in reducing the spread of misinformation on social media and online platforms. This project improved my knowledge of Flask, Machine Learning, data preprocessing, and web development.
